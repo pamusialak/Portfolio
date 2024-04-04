@@ -111,7 +111,7 @@ h1 {
     height: 450px;
 }
 
-.rodape {
+.footer {
     padding: 24px;
     color: var(--cor-secundaria);
     background-color: var(--cor-terciaria);
@@ -119,6 +119,8 @@ h1 {
     font-size: 1.5rem;
     font-weight: 400;
     text-align: center;
+    position: relative;
+    top: 100px; 
 }
 
 
